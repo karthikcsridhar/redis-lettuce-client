@@ -1,3 +1,4 @@
+
 ## lettuce - A scalable Java Redis client
 
   Lettuce is a scalable thread-safe Redis client providing both synchronous and
@@ -55,9 +56,7 @@
   For pub/sub connections channel names and patterns are treated as keys,
   messages are treated as values.
 
-### Maven Artifacts
-
-  Releases of lettuce are available in the maven central repository.
+### Maven dependency
 
 <dependency>
     <groupId>io.lettuce</groupId>
